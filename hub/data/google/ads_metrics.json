@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "fetched_at": "2026-11-14",
+  "fetched_at": "2026-11-15",
   "period": {
     "date_from": "2025-10-09",
-    "date_to": "2026-11-14"
+    "date_to": "2026-11-15"
   },
   "account": {
     "id": "6309630233",
@@ -241,6 +241,107 @@
   ],
   "daily": [
     {
+      "date": "2026-11-15",
+      "campaigns": [
+        {
+          "id": "24468918940",
+          "name": "YT | November | Leads | MM",
+          "status": "ENABLED",
+          "type": "DEMAND_GEN",
+          "impressions": 8491,
+          "clicks": 204,
+          "cost_usd": 13.463,
+          "ctr_pct": 2.4025,
+          "avg_cpc_usd": 0.066,
+          "conversions": 0.0,
+          "cpl_usd": null,
+          "search_is_pct": null,
+          "lost_is_budget": null,
+          "lost_is_rank": null
+        },
+        {
+          "id": "24306264478",
+          "name": "Purchase RU — MaxCPC1",
+          "status": "ENABLED",
+          "type": "SEARCH",
+          "impressions": 53,
+          "clicks": 8,
+          "cost_usd": 10.89,
+          "ctr_pct": 15.0943,
+          "avg_cpc_usd": 1.3613,
+          "conversions": 0.0,
+          "cpl_usd": null,
+          "search_is_pct": 27.73,
+          "lost_is_budget": 66.39,
+          "lost_is_rank": 5.88
+        },
+        {
+          "id": "24294983751",
+          "name": "Purchase EN — MaxCPC1",
+          "status": "ENABLED",
+          "type": "SEARCH",
+          "impressions": 143,
+          "clicks": 9,
+          "cost_usd": 10.82,
+          "ctr_pct": 6.2937,
+          "avg_cpc_usd": 1.2022,
+          "conversions": 0.0,
+          "cpl_usd": null,
+          "search_is_pct": 68.82,
+          "lost_is_budget": 1.08,
+          "lost_is_rank": 30.11
+        },
+        {
+          "id": "24468840454",
+          "name": "Search | Competitors | November | MM",
+          "status": "ENABLED",
+          "type": "SEARCH",
+          "impressions": 340,
+          "clicks": 15,
+          "cost_usd": 7.8074,
+          "ctr_pct": 4.4118,
+          "avg_cpc_usd": 0.5205,
+          "conversions": 0.0,
+          "cpl_usd": null,
+          "search_is_pct": 18.69,
+          "lost_is_budget": null,
+          "lost_is_rank": 81.31
+        },
+        {
+          "id": "24457621338",
+          "name": "PM | RU | November | Leads | MM",
+          "status": "ENABLED",
+          "type": "PERFORMANCE_MAX",
+          "impressions": 3715,
+          "clicks": 101,
+          "cost_usd": 6.3603,
+          "ctr_pct": 2.7187,
+          "avg_cpc_usd": 0.063,
+          "conversions": 1.0,
+          "cpl_usd": 6.36,
+          "search_is_pct": 9.99,
+          "lost_is_budget": 1.28,
+          "lost_is_rank": 89.0
+        },
+        {
+          "id": "24457621332",
+          "name": "PM | EN | November | Leads | MM",
+          "status": "ENABLED",
+          "type": "PERFORMANCE_MAX",
+          "impressions": 313,
+          "clicks": 17,
+          "cost_usd": 6.2632,
+          "ctr_pct": 5.4313,
+          "avg_cpc_usd": 0.3684,
+          "conversions": 4.0,
+          "cpl_usd": 1.57,
+          "search_is_pct": 21.08,
+          "lost_is_budget": 14.46,
+          "lost_is_rank": 64.46
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "campaigns": [
         {
@@ -248,11 +349,11 @@
           "name": "YT | November | Leads | MM",
           "status": "ENABLED",
           "type": "DEMAND_GEN",
-          "impressions": 7532,
-          "clicks": 62,
-          "cost_usd": 14.8085,
-          "ctr_pct": 0.8232,
-          "avg_cpc_usd": 0.2388,
+          "impressions": 10970,
+          "clicks": 87,
+          "cost_usd": 21.0925,
+          "ctr_pct": 0.7931,
+          "avg_cpc_usd": 0.2424,
           "conversions": 0.0,
           "cpl_usd": null,
           "search_is_pct": null,
@@ -271,9 +372,25 @@
           "avg_cpc_usd": 1.2491,
           "conversions": 0.0,
           "cpl_usd": null,
-          "search_is_pct": 38.26,
-          "lost_is_budget": 43.48,
-          "lost_is_rank": 18.26
+          "search_is_pct": 35.45,
+          "lost_is_budget": 47.62,
+          "lost_is_rank": 16.93
+        },
+        {
+          "id": "24457621332",
+          "name": "PM | EN | November | Leads | MM",
+          "status": "ENABLED",
+          "type": "PERFORMANCE_MAX",
+          "impressions": 5777,
+          "clicks": 313,
+          "cost_usd": 13.0728,
+          "ctr_pct": 5.418,
+          "avg_cpc_usd": 0.0418,
+          "conversions": 1.0,
+          "cpl_usd": 13.07,
+          "search_is_pct": 13.2,
+          "lost_is_budget": 85.2,
+          "lost_is_rank": 1.6
         },
         {
           "id": "24306264478",
@@ -281,47 +398,31 @@
           "status": "ENABLED",
           "type": "SEARCH",
           "impressions": 125,
-          "clicks": 8,
-          "cost_usd": 11.17,
-          "ctr_pct": 6.4,
-          "avg_cpc_usd": 1.3962,
+          "clicks": 9,
+          "cost_usd": 12.87,
+          "ctr_pct": 7.2,
+          "avg_cpc_usd": 1.43,
           "conversions": 0.0,
           "cpl_usd": null,
-          "search_is_pct": 45.45,
-          "lost_is_budget": 43.64,
-          "lost_is_rank": 10.91
+          "search_is_pct": 37.89,
+          "lost_is_budget": 52.34,
+          "lost_is_rank": 9.77
         },
         {
           "id": "24457621338",
           "name": "PM | RU | November | Leads | MM",
           "status": "ENABLED",
           "type": "PERFORMANCE_MAX",
-          "impressions": 4791,
-          "clicks": 160,
-          "cost_usd": 11.1431,
-          "ctr_pct": 3.3396,
-          "avg_cpc_usd": 0.0696,
-          "conversions": 0.0,
-          "cpl_usd": null,
-          "search_is_pct": 10.97,
-          "lost_is_budget": 87.74,
-          "lost_is_rank": 1.29
-        },
-        {
-          "id": "24457621332",
-          "name": "PM | EN | November | Leads | MM",
-          "status": "ENABLED",
-          "type": "PERFORMANCE_MAX",
-          "impressions": 5330,
-          "clicks": 286,
-          "cost_usd": 9.7927,
-          "ctr_pct": 5.3659,
-          "avg_cpc_usd": 0.0342,
-          "conversions": 0.0,
-          "cpl_usd": null,
-          "search_is_pct": 18.85,
-          "lost_is_budget": 81.15,
-          "lost_is_rank": null
+          "impressions": 4833,
+          "clicks": 165,
+          "cost_usd": 11.693,
+          "ctr_pct": 3.414,
+          "avg_cpc_usd": 0.0709,
+          "conversions": 1.0,
+          "cpl_usd": 11.69,
+          "search_is_pct": 9.99,
+          "lost_is_budget": 77.63,
+          "lost_is_rank": 13.68
         },
         {
           "id": "24468840454",
@@ -335,9 +436,9 @@
           "avg_cpc_usd": 0.8156,
           "conversions": 0.0,
           "cpl_usd": null,
-          "search_is_pct": 18.6,
-          "lost_is_budget": 79.65,
-          "lost_is_rank": 1.75
+          "search_is_pct": 14.32,
+          "lost_is_budget": 72.68,
+          "lost_is_rank": 13.0
         }
       ]
     },
@@ -7777,6 +7878,186 @@
   ],
   "device_daily": [
     {
+      "date": "2026-11-15",
+      "device": "DESKTOP",
+      "campaign_id": "24294983751",
+      "impressions": 30,
+      "clicks": 2,
+      "cost_usd": 2.24,
+      "ctr_pct": 6.6667,
+      "avg_cpc_usd": 1.12
+    },
+    {
+      "date": "2026-11-15",
+      "device": "DESKTOP",
+      "campaign_id": "24306264478",
+      "impressions": 5,
+      "clicks": 1,
+      "cost_usd": 1.25,
+      "ctr_pct": 20.0,
+      "avg_cpc_usd": 1.25
+    },
+    {
+      "date": "2026-11-15",
+      "device": "DESKTOP",
+      "campaign_id": "24457621332",
+      "impressions": 29,
+      "clicks": 0,
+      "cost_usd": 0.0025,
+      "ctr_pct": 0.0,
+      "avg_cpc_usd": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "device": "DESKTOP",
+      "campaign_id": "24457621338",
+      "impressions": 65,
+      "clicks": 0,
+      "cost_usd": 0.0026,
+      "ctr_pct": 0.0,
+      "avg_cpc_usd": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "device": "DESKTOP",
+      "campaign_id": "24468840454",
+      "impressions": 64,
+      "clicks": 1,
+      "cost_usd": 0.82,
+      "ctr_pct": 1.5625,
+      "avg_cpc_usd": 0.82
+    },
+    {
+      "date": "2026-11-15",
+      "device": "DESKTOP",
+      "campaign_id": "24468918940",
+      "impressions": 4010,
+      "clicks": 19,
+      "cost_usd": 4.8697,
+      "ctr_pct": 0.4738,
+      "avg_cpc_usd": 0.2563
+    },
+    {
+      "date": "2026-11-15",
+      "device": "MOBILE",
+      "campaign_id": "24294983751",
+      "impressions": 112,
+      "clicks": 7,
+      "cost_usd": 8.58,
+      "ctr_pct": 6.25,
+      "avg_cpc_usd": 1.2257
+    },
+    {
+      "date": "2026-11-15",
+      "device": "MOBILE",
+      "campaign_id": "24306264478",
+      "impressions": 48,
+      "clicks": 7,
+      "cost_usd": 9.64,
+      "ctr_pct": 14.5833,
+      "avg_cpc_usd": 1.3771
+    },
+    {
+      "date": "2026-11-15",
+      "device": "MOBILE",
+      "campaign_id": "24457621332",
+      "impressions": 248,
+      "clicks": 15,
+      "cost_usd": 6.2334,
+      "ctr_pct": 6.0484,
+      "avg_cpc_usd": 0.4156
+    },
+    {
+      "date": "2026-11-15",
+      "device": "MOBILE",
+      "campaign_id": "24457621338",
+      "impressions": 3548,
+      "clicks": 97,
+      "cost_usd": 6.2551,
+      "ctr_pct": 2.7339,
+      "avg_cpc_usd": 0.0645
+    },
+    {
+      "date": "2026-11-15",
+      "device": "MOBILE",
+      "campaign_id": "24468840454",
+      "impressions": 272,
+      "clicks": 14,
+      "cost_usd": 6.9874,
+      "ctr_pct": 5.1471,
+      "avg_cpc_usd": 0.4991
+    },
+    {
+      "date": "2026-11-15",
+      "device": "MOBILE",
+      "campaign_id": "24468918940",
+      "impressions": 3153,
+      "clicks": 183,
+      "cost_usd": 7.6609,
+      "ctr_pct": 5.804,
+      "avg_cpc_usd": 0.0419
+    },
+    {
+      "date": "2026-11-15",
+      "device": "TABLET",
+      "campaign_id": "24457621332",
+      "impressions": 35,
+      "clicks": 2,
+      "cost_usd": 0.0269,
+      "ctr_pct": 5.7143,
+      "avg_cpc_usd": 0.0134
+    },
+    {
+      "date": "2026-11-15",
+      "device": "TABLET",
+      "campaign_id": "24457621338",
+      "impressions": 99,
+      "clicks": 4,
+      "cost_usd": 0.1013,
+      "ctr_pct": 4.0404,
+      "avg_cpc_usd": 0.0253
+    },
+    {
+      "date": "2026-11-15",
+      "device": "TABLET",
+      "campaign_id": "24468918940",
+      "impressions": 215,
+      "clicks": 1,
+      "cost_usd": 0.1594,
+      "ctr_pct": 0.4651,
+      "avg_cpc_usd": 0.1594
+    },
+    {
+      "date": "2026-11-15",
+      "device": "CONNECTED_TV",
+      "campaign_id": "24457621332",
+      "impressions": 1,
+      "clicks": 0,
+      "cost_usd": 0.0005,
+      "ctr_pct": 0.0,
+      "avg_cpc_usd": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "device": "CONNECTED_TV",
+      "campaign_id": "24457621338",
+      "impressions": 3,
+      "clicks": 0,
+      "cost_usd": 0.0013,
+      "ctr_pct": 0.0,
+      "avg_cpc_usd": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "device": "CONNECTED_TV",
+      "campaign_id": "24468918940",
+      "impressions": 1113,
+      "clicks": 1,
+      "cost_usd": 0.773,
+      "ctr_pct": 0.0898,
+      "avg_cpc_usd": 0.773
+    },
+    {
       "date": "2026-11-14",
       "device": "DESKTOP",
       "campaign_id": "24294983751",
@@ -7790,20 +8071,20 @@
       "date": "2026-11-14",
       "device": "DESKTOP",
       "campaign_id": "24457621332",
-      "impressions": 95,
+      "impressions": 105,
       "clicks": 4,
       "cost_usd": 0.1973,
-      "ctr_pct": 4.2105,
+      "ctr_pct": 3.8095,
       "avg_cpc_usd": 0.0493
     },
     {
       "date": "2026-11-14",
       "device": "DESKTOP",
       "campaign_id": "24457621338",
-      "impressions": 282,
+      "impressions": 283,
       "clicks": 3,
       "cost_usd": 0.2798,
-      "ctr_pct": 1.0638,
+      "ctr_pct": 1.0601,
       "avg_cpc_usd": 0.0933
     },
     {
@@ -7820,11 +8101,11 @@
       "date": "2026-11-14",
       "device": "DESKTOP",
       "campaign_id": "24468918940",
-      "impressions": 4699,
-      "clicks": 8,
-      "cost_usd": 10.821,
-      "ctr_pct": 0.1702,
-      "avg_cpc_usd": 1.3526
+      "impressions": 7087,
+      "clicks": 14,
+      "cost_usd": 15.8072,
+      "ctr_pct": 0.1975,
+      "avg_cpc_usd": 1.1291
     },
     {
       "date": "2026-11-14",
@@ -7841,30 +8122,30 @@
       "device": "MOBILE",
       "campaign_id": "24306264478",
       "impressions": 107,
-      "clicks": 8,
-      "cost_usd": 11.17,
-      "ctr_pct": 7.4766,
-      "avg_cpc_usd": 1.3962
+      "clicks": 9,
+      "cost_usd": 12.87,
+      "ctr_pct": 8.4112,
+      "avg_cpc_usd": 1.43
     },
     {
       "date": "2026-11-14",
       "device": "MOBILE",
       "campaign_id": "24457621332",
-      "impressions": 4852,
-      "clicks": 252,
-      "cost_usd": 8.6792,
-      "ctr_pct": 5.1937,
-      "avg_cpc_usd": 0.0344
+      "impressions": 5257,
+      "clicks": 277,
+      "cost_usd": 11.9249,
+      "ctr_pct": 5.2692,
+      "avg_cpc_usd": 0.0431
     },
     {
       "date": "2026-11-14",
       "device": "MOBILE",
       "campaign_id": "24457621338",
-      "impressions": 4335,
-      "clicks": 148,
-      "cost_usd": 10.6131,
-      "ctr_pct": 3.4141,
-      "avg_cpc_usd": 0.0717
+      "impressions": 4375,
+      "clicks": 152,
+      "cost_usd": 11.1499,
+      "ctr_pct": 3.4743,
+      "avg_cpc_usd": 0.0734
     },
     {
       "date": "2026-11-14",
@@ -7880,49 +8161,49 @@
       "date": "2026-11-14",
       "device": "MOBILE",
       "campaign_id": "24468918940",
-      "impressions": 1630,
-      "clicks": 53,
-      "cost_usd": 2.7403,
-      "ctr_pct": 3.2515,
-      "avg_cpc_usd": 0.0517
+      "impressions": 2063,
+      "clicks": 71,
+      "cost_usd": 3.4744,
+      "ctr_pct": 3.4416,
+      "avg_cpc_usd": 0.0489
     },
     {
       "date": "2026-11-14",
       "device": "TABLET",
       "campaign_id": "24457621332",
-      "impressions": 381,
-      "clicks": 30,
-      "cost_usd": 0.9162,
-      "ctr_pct": 7.874,
-      "avg_cpc_usd": 0.0305
+      "impressions": 412,
+      "clicks": 32,
+      "cost_usd": 0.9505,
+      "ctr_pct": 7.767,
+      "avg_cpc_usd": 0.0297
     },
     {
       "date": "2026-11-14",
       "device": "TABLET",
       "campaign_id": "24457621338",
-      "impressions": 171,
-      "clicks": 9,
-      "cost_usd": 0.2502,
-      "ctr_pct": 5.2632,
-      "avg_cpc_usd": 0.0278
+      "impressions": 172,
+      "clicks": 10,
+      "cost_usd": 0.2633,
+      "ctr_pct": 5.814,
+      "avg_cpc_usd": 0.0263
     },
     {
       "date": "2026-11-14",
       "device": "TABLET",
       "campaign_id": "24468918940",
-      "impressions": 208,
-      "clicks": 1,
-      "cost_usd": 0.3147,
-      "ctr_pct": 0.4808,
-      "avg_cpc_usd": 0.3147
+      "impressions": 258,
+      "clicks": 2,
+      "cost_usd": 0.3671,
+      "ctr_pct": 0.7752,
+      "avg_cpc_usd": 0.1836
     },
     {
       "date": "2026-11-14",
       "device": "CONNECTED_TV",
       "campaign_id": "24468918940",
-      "impressions": 995,
+      "impressions": 1562,
       "clicks": 0,
-      "cost_usd": 0.9324,
+      "cost_usd": 1.4437,
       "ctr_pct": 0.0,
       "avg_cpc_usd": 0.0
     },
@@ -21260,6 +21541,30 @@
         "cost_usd": 2.55
       },
       {
+        "date": "2026-11-15",
+        "gender": "MALE",
+        "campaign_id": "24294983751",
+        "impressions": 54,
+        "clicks": 3,
+        "cost_usd": 3.39
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "FEMALE",
+        "campaign_id": "24294983751",
+        "impressions": 29,
+        "clicks": 2,
+        "cost_usd": 2.52
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "UNDETERMINED",
+        "campaign_id": "24294983751",
+        "impressions": 60,
+        "clicks": 4,
+        "cost_usd": 4.91
+      },
+      {
         "date": "2026-09-29",
         "gender": "MALE",
         "campaign_id": "24295008156",
@@ -22415,15 +22720,15 @@
         "date": "2026-11-14",
         "gender": "MALE",
         "campaign_id": "24306264478",
-        "impressions": 44,
-        "clicks": 3,
-        "cost_usd": 4.31
+        "impressions": 45,
+        "clicks": 4,
+        "cost_usd": 6.01
       },
       {
         "date": "2026-11-14",
         "gender": "FEMALE",
         "campaign_id": "24306264478",
-        "impressions": 45,
+        "impressions": 44,
         "clicks": 2,
         "cost_usd": 3.06
       },
@@ -22434,6 +22739,30 @@
         "impressions": 36,
         "clicks": 3,
         "cost_usd": 3.8
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "MALE",
+        "campaign_id": "24306264478",
+        "impressions": 10,
+        "clicks": 1,
+        "cost_usd": 0.97
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "FEMALE",
+        "campaign_id": "24306264478",
+        "impressions": 31,
+        "clicks": 5,
+        "cost_usd": 7.51
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "UNDETERMINED",
+        "campaign_id": "24306264478",
+        "impressions": 12,
+        "clicks": 2,
+        "cost_usd": 2.41
       },
       {
         "date": "2026-10-12",
@@ -23380,6 +23709,46 @@
         "cost_usd": 1.3974
       },
       {
+        "date": "2026-11-15",
+        "gender": "FEMALE",
+        "campaign_id": "24468840454",
+        "impressions": 18,
+        "clicks": 3,
+        "cost_usd": 0.6199
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "UNDETERMINED",
+        "campaign_id": "24468840454",
+        "impressions": 34,
+        "clicks": 1,
+        "cost_usd": 0.82
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "MALE",
+        "campaign_id": "24468840454",
+        "impressions": 112,
+        "clicks": 5,
+        "cost_usd": 1.5603
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "FEMALE",
+        "campaign_id": "24468840454",
+        "impressions": 74,
+        "clicks": 2,
+        "cost_usd": 2.3299
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "UNDETERMINED",
+        "campaign_id": "24468840454",
+        "impressions": 79,
+        "clicks": 4,
+        "cost_usd": 2.4773
+      },
+      {
         "date": "2026-11-13",
         "gender": "MALE",
         "campaign_id": "24468918940",
@@ -23407,25 +23776,49 @@
         "date": "2026-11-14",
         "gender": "MALE",
         "campaign_id": "24468918940",
-        "impressions": 4349,
-        "clicks": 19,
-        "cost_usd": 10.0944
+        "impressions": 6197,
+        "clicks": 29,
+        "cost_usd": 14.1723
       },
       {
         "date": "2026-11-14",
         "gender": "FEMALE",
         "campaign_id": "24468918940",
-        "impressions": 2105,
-        "clicks": 18,
-        "cost_usd": 3.3118
+        "impressions": 3151,
+        "clicks": 25,
+        "cost_usd": 4.8983
       },
       {
         "date": "2026-11-14",
         "gender": "UNDETERMINED",
         "campaign_id": "24468918940",
-        "impressions": 1078,
-        "clicks": 25,
-        "cost_usd": 1.4023
+        "impressions": 1622,
+        "clicks": 33,
+        "cost_usd": 2.0219
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "MALE",
+        "campaign_id": "24468918940",
+        "impressions": 4577,
+        "clicks": 101,
+        "cost_usd": 8.6061
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "FEMALE",
+        "campaign_id": "24468918940",
+        "impressions": 2950,
+        "clicks": 89,
+        "cost_usd": 4.2487
+      },
+      {
+        "date": "2026-11-15",
+        "gender": "UNDETERMINED",
+        "campaign_id": "24468918940",
+        "impressions": 964,
+        "clicks": 14,
+        "cost_usd": 0.6082
       }
     ],
     "age": [
@@ -32950,6 +33343,38 @@
         "cost_usd": 2.55
       },
       {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_18_24",
+        "campaign_id": "24294983751",
+        "impressions": 11,
+        "clicks": 3,
+        "cost_usd": 3.73
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_55_64",
+        "campaign_id": "24294983751",
+        "impressions": 3,
+        "clicks": 1,
+        "cost_usd": 0.95
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_65_UP",
+        "campaign_id": "24294983751",
+        "impressions": 2,
+        "clicks": 1,
+        "cost_usd": 1.23
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_UNDETERMINED",
+        "campaign_id": "24294983751",
+        "impressions": 60,
+        "clicks": 4,
+        "cost_usd": 4.91
+      },
+      {
         "date": "2026-09-29",
         "age": "AGE_RANGE_45_54",
         "campaign_id": "24295008156",
@@ -35033,7 +35458,7 @@
         "date": "2026-11-14",
         "age": "AGE_RANGE_25_34",
         "campaign_id": "24306264478",
-        "impressions": 28,
+        "impressions": 27,
         "clicks": 3,
         "cost_usd": 4.37
       },
@@ -35047,11 +35472,59 @@
       },
       {
         "date": "2026-11-14",
+        "age": "AGE_RANGE_45_54",
+        "campaign_id": "24306264478",
+        "impressions": 22,
+        "clicks": 1,
+        "cost_usd": 1.7
+      },
+      {
+        "date": "2026-11-14",
         "age": "AGE_RANGE_UNDETERMINED",
         "campaign_id": "24306264478",
         "impressions": 36,
         "clicks": 3,
         "cost_usd": 3.8
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_35_44",
+        "campaign_id": "24306264478",
+        "impressions": 6,
+        "clicks": 1,
+        "cost_usd": 0.97
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_45_54",
+        "campaign_id": "24306264478",
+        "impressions": 6,
+        "clicks": 1,
+        "cost_usd": 1.79
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_55_64",
+        "campaign_id": "24306264478",
+        "impressions": 13,
+        "clicks": 2,
+        "cost_usd": 2.14
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_65_UP",
+        "campaign_id": "24306264478",
+        "impressions": 3,
+        "clicks": 2,
+        "cost_usd": 3.58
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_UNDETERMINED",
+        "campaign_id": "24306264478",
+        "impressions": 12,
+        "clicks": 2,
+        "cost_usd": 2.41
       },
       {
         "date": "2026-10-12",
@@ -36718,6 +37191,70 @@
         "cost_usd": 1.3974
       },
       {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_18_24",
+        "campaign_id": "24468840454",
+        "impressions": 8,
+        "clicks": 2,
+        "cost_usd": 0.5798
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_35_44",
+        "campaign_id": "24468840454",
+        "impressions": 15,
+        "clicks": 1,
+        "cost_usd": 0.0401
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_UNDETERMINED",
+        "campaign_id": "24468840454",
+        "impressions": 35,
+        "clicks": 1,
+        "cost_usd": 0.82
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_18_24",
+        "campaign_id": "24468840454",
+        "impressions": 24,
+        "clicks": 1,
+        "cost_usd": 0.187
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_25_34",
+        "campaign_id": "24468840454",
+        "impressions": 73,
+        "clicks": 1,
+        "cost_usd": 0.4378
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_35_44",
+        "campaign_id": "24468840454",
+        "impressions": 41,
+        "clicks": 4,
+        "cost_usd": 1.3955
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_45_54",
+        "campaign_id": "24468840454",
+        "impressions": 29,
+        "clicks": 1,
+        "cost_usd": 1.8699
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_UNDETERMINED",
+        "campaign_id": "24468840454",
+        "impressions": 79,
+        "clicks": 4,
+        "cost_usd": 2.4773
+      },
+      {
         "date": "2026-11-13",
         "age": "AGE_RANGE_18_24",
         "campaign_id": "24468918940",
@@ -36777,57 +37314,113 @@
         "date": "2026-11-14",
         "age": "AGE_RANGE_18_24",
         "campaign_id": "24468918940",
-        "impressions": 829,
-        "clicks": 5,
-        "cost_usd": 1.1345
+        "impressions": 1184,
+        "clicks": 8,
+        "cost_usd": 1.6523
       },
       {
         "date": "2026-11-14",
         "age": "AGE_RANGE_25_34",
         "campaign_id": "24468918940",
-        "impressions": 2132,
-        "clicks": 14,
-        "cost_usd": 4.5965
+        "impressions": 3031,
+        "clicks": 16,
+        "cost_usd": 6.2962
       },
       {
         "date": "2026-11-14",
         "age": "AGE_RANGE_35_44",
         "campaign_id": "24468918940",
-        "impressions": 1573,
-        "clicks": 11,
-        "cost_usd": 3.4879
+        "impressions": 2257,
+        "clicks": 14,
+        "cost_usd": 5.0133
       },
       {
         "date": "2026-11-14",
         "age": "AGE_RANGE_45_54",
         "campaign_id": "24468918940",
-        "impressions": 874,
-        "clicks": 2,
-        "cost_usd": 1.7192
+        "impressions": 1288,
+        "clicks": 6,
+        "cost_usd": 2.4595
       },
       {
         "date": "2026-11-14",
         "age": "AGE_RANGE_55_64",
         "campaign_id": "24468918940",
-        "impressions": 642,
-        "clicks": 2,
-        "cost_usd": 1.5697
+        "impressions": 983,
+        "clicks": 5,
+        "cost_usd": 2.2823
       },
       {
         "date": "2026-11-14",
         "age": "AGE_RANGE_65_UP",
         "campaign_id": "24468918940",
-        "impressions": 404,
-        "clicks": 3,
-        "cost_usd": 0.914
+        "impressions": 618,
+        "clicks": 5,
+        "cost_usd": 1.5058
       },
       {
         "date": "2026-11-14",
         "age": "AGE_RANGE_UNDETERMINED",
         "campaign_id": "24468918940",
-        "impressions": 1078,
-        "clicks": 25,
-        "cost_usd": 1.3866
+        "impressions": 1609,
+        "clicks": 33,
+        "cost_usd": 1.883
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_18_24",
+        "campaign_id": "24468918940",
+        "impressions": 735,
+        "clicks": 8,
+        "cost_usd": 0.7381
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_25_34",
+        "campaign_id": "24468918940",
+        "impressions": 2195,
+        "clicks": 43,
+        "cost_usd": 3.0097
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_35_44",
+        "campaign_id": "24468918940",
+        "impressions": 1813,
+        "clicks": 40,
+        "cost_usd": 2.9932
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_45_54",
+        "campaign_id": "24468918940",
+        "impressions": 1116,
+        "clicks": 23,
+        "cost_usd": 2.0973
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_55_64",
+        "campaign_id": "24468918940",
+        "impressions": 983,
+        "clicks": 37,
+        "cost_usd": 1.7562
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_65_UP",
+        "campaign_id": "24468918940",
+        "impressions": 679,
+        "clicks": 39,
+        "cost_usd": 2.2115
+      },
+      {
+        "date": "2026-11-15",
+        "age": "AGE_RANGE_UNDETERMINED",
+        "campaign_id": "24468918940",
+        "impressions": 970,
+        "clicks": 14,
+        "cost_usd": 0.6569
       }
     ]
   }
